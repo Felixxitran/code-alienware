@@ -1,0 +1,6 @@
+D:\code\roadmap.sh\CACHE\obj\x86\Debug\Cache.csproj.AssemblyReference.cache
+D:\code\roadmap.sh\CACHE\obj\x86\Debug\Cache.csproj.CoreCompileInputs.cache
+D:\code\roadmap.sh\CACHE\bin\Debug\ConsoleApplication.exe
+D:\code\roadmap.sh\CACHE\bin\Debug\ConsoleApplication.pdb
+D:\code\roadmap.sh\CACHE\obj\x86\Debug\ConsoleApplication.exe
+D:\code\roadmap.sh\CACHE\obj\x86\Debug\ConsoleApplication.pdb

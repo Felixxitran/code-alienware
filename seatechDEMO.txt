@@ -1,0 +1,8 @@
+client id : 3b3fe51d-094f-4c78-8629-90f70ea7cacb
+
+client secrett : oGI3RM7cvqIJx9r7aj1243xO8Ani6uQlnQ3OvyuNC1g=
+
+tenant ID : 3b3fe51d-094f-4c78-8629-90f70ea7cacb@4f088cac-739f-4204-a676-b4f8286aecf2
+
+
+password: Fal$80248#

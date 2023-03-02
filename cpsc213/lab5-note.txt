@@ -1,0 +1,3 @@
+memory leak : use malloc but not free the object 
+
+dangling pointer : pointer points to null
